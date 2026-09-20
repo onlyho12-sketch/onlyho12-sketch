@@ -62,6 +62,30 @@ A TurtleBot4 patrols a mapped space using SLAM and Nav2, detects targets with YO
 
 <br>
 
+### 🍳 [BOKABOKA](https://github.com/onlyho12-sketch/BOKABOKA)
+
+**A collaborative robot that cooks, and takes your order by QR.**
+
+A Doosan M0609 with an OnRobot RG2 gripper cooks *jeon* and fried rice on a wok. Customers order from their phone via a QR code, an admin dashboard starts the run, and progress streams back live. The part I care about most is the **exception handling layer** — a safety monitor watching for grip failure and force overruns, a recovery manager that decides between auto-recovery and waiting for a human, and a physical E-STOP wired to digital I/O.
+
+`ROS2 Humble` · `Doosan M0609` · `OnRobot RG2` · `Modbus` · `Flask` · `SQLite`
+
+*Team project*
+
+<br>
+
+### 🧠 [Dittobot](https://github.com/onlyho12-sketch/Dittobot)
+
+**Teaching a robot a skill by showing it once.**
+
+An RGB-D demonstration from a human worker is decomposed into local trajectory analysis and bounded semantic analysis, then compiled deterministically into a validated `SkillGraph`. Built around an honest **safety gate design**: hardware execution stays closed behind explicit authorization flags, and the entire Teaching → Registry → Runtime → Update loop runs offline against a mock adapter when no robot is present.
+
+`Python 3.10` · `FastAPI` · `RealSense D435i` · `ROS2` · `MoveIt` · `Doosan M0609`
+
+*Team project*
+
+<br>
+
 ### 🔧 [cacadaca](https://github.com/onlyho12-sketch/cacadaca)
 
 **From a 3D scan to a sanded bonnet, end to end.**
@@ -82,6 +106,7 @@ A full four-stage pipeline: a virtual depth camera captures the car bonnet as a 
 ![ROS2](https://img.shields.io/badge/ROS2-1a1a1a?style=flat-square&logo=ros&logoColor=22314E)
 ![NVIDIA](https://img.shields.io/badge/Isaac%20Sim-1a1a1a?style=flat-square&logo=nvidia&logoColor=76B900)
 ![OpenCV](https://img.shields.io/badge/OpenCV-1a1a1a?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=ffffff)
 
 ![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=009688)
