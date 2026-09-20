@@ -121,6 +121,10 @@ circular economy at roughly **55% cost saving** per remanufactured cylinder.
 
 <kbd>React 18</kbd> <kbd>Vite</kbd> <kbd>Recharts</kbd> <kbd>Unity WebGL</kbd> <kbd>Simulink</kbd>
 
+[![HI-CYCLE demo](https://raw.githubusercontent.com/onlyho12-sketch/HI-CYCLE/main/docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/HI-CYCLE/releases/download/demo/demo.mp4)
+
+<sub>▶ click to watch the demo</sub>
+
 <br>
 
 ### 🔧 &nbsp;[cacadaca](https://github.com/onlyho12-sketch/cacadaca)
