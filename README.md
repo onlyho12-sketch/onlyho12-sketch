@@ -53,6 +53,10 @@ measurements** before anything reaches the monitoring console.
 
 <kbd>Isaac Sim</kbd> <kbd>PyTorch + CUDA</kbd> <kbd>PPO</kbd> <kbd>RMPFlow</kbd> <kbd>Node.js</kbd>
 
+[![PolyTwin demo](https://raw.githubusercontent.com/onlyho12-sketch/PolyTwin/main/docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/PolyTwin/releases/download/demo/polytwin.mp4)
+
+<sub>▶ click to watch the demo</sub>
+
 <br>
 
 ### 🎯 &nbsp;[SOCAMACA](https://github.com/onlyho12-sketch/SOCAMACA)
