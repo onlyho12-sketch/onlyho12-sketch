@@ -83,6 +83,10 @@ loop runs offline against a mock adapter when no robot is present.
 
 <kbd>Python 3.10</kbd> <kbd>FastAPI</kbd> <kbd>RealSense D435i</kbd> <kbd>ROS2</kbd> <kbd>MoveIt</kbd>
 
+[![Dittobot demo](https://raw.githubusercontent.com/onlyho12-sketch/Dittobot/main/docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/Dittobot/releases/download/demo/demo.mp4)
+
+<sub>▶ click to watch the demo</sub>
+
 <br>
 
 ### 🍳 &nbsp;[BOKABOKA](https://github.com/onlyho12-sketch/BOKABOKA)
