@@ -98,6 +98,10 @@ between auto-recovery and a human, and a physical E-STOP wired to digital I/O.
 
 <kbd>ROS2 Humble</kbd> <kbd>Doosan M0609</kbd> <kbd>OnRobot RG2</kbd> <kbd>Modbus</kbd> <kbd>Flask</kbd>
 
+[![BOKABOKA demo](https://raw.githubusercontent.com/onlyho12-sketch/BOKABOKA/main/docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/BOKABOKA/releases/download/demo/demo.mp4)
+
+<sub>▶ click to watch the demo</sub>
+
 <br>
 
 ### ♻️ &nbsp;[HI-CYCLE](https://github.com/onlyho12-sketch/HI-CYCLE)
@@ -126,6 +130,10 @@ polish under **virtual-spring contact force control** at ~1.5N.
 The groundwork PolyTwin grew out of.
 
 <kbd>Isaac Sim</kbd> <kbd>ROS2 Humble</kbd> <kbd>Open3D</kbd> <kbd>Vite</kbd> <kbd>Chart.js</kbd>
+
+[![cacadaca demo](https://raw.githubusercontent.com/onlyho12-sketch/cacadaca/main/docs/demo-thumb.jpg)](https://github.com/onlyho12-sketch/cacadaca/releases/download/demo/cacadaca.mp4)
+
+<sub>▶ click to watch the demo</sub>
 
 <br>
 
