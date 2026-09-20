@@ -70,7 +70,7 @@ separate frontends across ROS2 and rosbridge.
 
 <br>
 
-### 🧠 &nbsp;[Dittobot](https://github.com/onlyho12-sketch/Dittobot) &nbsp;<sub>· team</sub>
+### 🧠 &nbsp;[Dittobot](https://github.com/onlyho12-sketch/Dittobot)
 
 > **Teaching a robot a skill by showing it once.**
 
@@ -85,7 +85,7 @@ loop runs offline against a mock adapter when no robot is present.
 
 <br>
 
-### 🍳 &nbsp;[BOKABOKA](https://github.com/onlyho12-sketch/BOKABOKA) &nbsp;<sub>· team</sub>
+### 🍳 &nbsp;[BOKABOKA](https://github.com/onlyho12-sketch/BOKABOKA)
 
 > **A collaborative robot that cooks, and takes your order by QR.**
 
@@ -100,7 +100,7 @@ between auto-recovery and a human, and a physical E-STOP wired to digital I/O.
 
 <br>
 
-### ♻️ &nbsp;[HI-CYCLE](https://github.com/onlyho12-sketch/HI-CYCLE) &nbsp;<sub>· team</sub>
+### ♻️ &nbsp;[HI-CYCLE](https://github.com/onlyho12-sketch/HI-CYCLE)
 
 > **Scoring a hydraulic cylinder's health, then paying you for it.**
 
