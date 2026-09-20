@@ -86,6 +86,18 @@ An RGB-D demonstration from a human worker is decomposed into local trajectory a
 
 <br>
 
+### ♻️ [HI-CYCLE](https://github.com/onlyho12-sketch/HI-CYCLE)
+
+**Scoring the health of a hydraulic cylinder, then paying you for it.**
+
+Built for the *2026 HD Future Construction Machinery Challenge* (Track 2: Sustainability). Sensor data becomes a weighted **Health Index** — contamination, drain flow, pressure, temperature, vibration, weighted by FMEA RPN — which grades the part A through D and feeds an exponential degradation model for **RUL prediction** with confidence intervals. The grade then drives a buyback credit, closing the loop into a circular economy: ~55% cost saving per remanufactured cylinder, 39kg CO₂ avoided.
+
+`React 18` · `Vite` · `Recharts` · `Unity WebGL` · `Simulink` (20,001-row dataset)
+
+*Team project*
+
+<br>
+
 ### 🔧 [cacadaca](https://github.com/onlyho12-sketch/cacadaca)
 
 **From a 3D scan to a sanded bonnet, end to end.**
