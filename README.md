@@ -13,7 +13,7 @@
 
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:onlyho12@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hyeonho-shin-a219023a8)
+
 
 <br>
 
