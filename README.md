@@ -191,7 +191,7 @@ The groundwork PolyTwin grew out of.
 
 [![Email](https://img.shields.io/badge/onlyho12@gmail.com-1a1a1a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:onlyho12@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hyeonho-shin-a219023a8)
+
 
 <br>
 
